@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="UML Changes: &#xD;&#xA;- A great deal of changes as the Alpha developed. ">
+    <Position X="10.217" Y="0.5" Height="4.03" Width="3.73" />
+  </Comment>
+  <Class Name="Final_Game_Project.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Game">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAIAEIAAAhAIBAAAEAAAAAAIAAAAgAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Player">
+    <Position X="8.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAACAAAABAAAAACCAAAAAwAABABAAAAEAAAwAAIAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Encounter">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAgAAAAAAAAAAQAAAAAAAACBEAAAAAwAAA=</HashCode>
+      <FileName>Encounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.CombatEncounter">
+    <Position X="4" Y="4.5" Width="2" />
+    <InheritanceLine Type="Final_Game_Project.Encounter" ManuallyRouted="true">
+      <Path>
+        <Point X="5.125" Y="3.401" />
+        <Point X="5.125" Y="4.125" />
+        <Point X="5" Y="4.125" />
+        <Point X="5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAhAAAAAACQAAAAAAAAQAAAAAAAAAAAAAQAAwCAA=</HashCode>
+      <FileName>CombatEncounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.DiscoveryEncounter">
+    <Position X="6.25" Y="4.5" Width="1.75" />
+    <InheritanceLine Type="Final_Game_Project.Encounter" ManuallyRouted="true">
+      <Path>
+        <Point X="5.125" Y="3.401" />
+        <Point X="5.125" Y="4.125" />
+        <Point X="7.125" Y="4.125" />
+        <Point X="7.125" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAQAAwEAA=</HashCode>
+      <FileName>DiscoveryEncounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.SpecialItem">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="Final_Game_Project.SpecialItem.Special_Item" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SpecialItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAgAAgAAAAAA=</HashCode>
+      <FileName>SpecialItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_Game_Project.Menu">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAIIAAAABAAAI=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Final Game Project.exe
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Final Game Project.deps.json
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Final Game Project.runtimeconfig.json
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Final Game Project.runtimeconfig.dev.json
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Final Game Project.dll
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Final Game Project.pdb
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\obj\Debug\netcoreapp3.1\Final Game Project.csprojAssemblyReference.cache
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\obj\Debug\netcoreapp3.1\Final Game Project.AssemblyInfoInputs.cache
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\obj\Debug\netcoreapp3.1\Final Game Project.AssemblyInfo.cs
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\obj\Debug\netcoreapp3.1\Final Game Project.dll
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\obj\Debug\netcoreapp3.1\Final Game Project.pdb
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Pastel.dll
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\obj\Debug\netcoreapp3.1\Final Game Project.csproj.CopyComplete
+C:\Users\sebic\OneDrive - Columbia College Chicago\Programming 101\Final Game Project\Final Game Project\bin\Debug\netcoreapp3.1\Figgle.dll
